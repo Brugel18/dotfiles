@@ -420,3 +420,4 @@ runtime bundle/vim-pathogen/autoload/pathogen.vim " initialize pathogen
 call pathogen#infect() " this loads all the plugins in ~/.vim/bundle
 
 noremap <leader>o <Esc>:CommandT<CR>
+noremap <leader>n :NERDTreeToggle<CR>
