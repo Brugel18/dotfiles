@@ -1,6 +1,6 @@
 alias reload!='. ~/.zshrc'
 alias hmm='cd ~/ghmm-code/ghmm/'
-alias ll='ls --color=auto'
+alias ll='ls -lah --color=auto'
 alias ..='cd ..'
 alias dot='cd ~/.dotfiles'
 alias ghmm='cd ~/ghmm-code/ghmm'
